@@ -25,6 +25,12 @@ I solve **2 problems per day**, documenting each solution with:
 
 ---
 
+### ✅ Day 3
+-  [0139. Word Break](https://leetcode.com/problems/word-break/) — Medium — Hash Table
+-  [0169. Majority Element](https://leetcode.com/problems/majority-element) — Easy — Two Pointers
+
+---
+
 ## 📌 Notes
 - All solutions include structured comments to improve readability and communication during interviews.
 - Stored by day for better tracking and review.
@@ -48,6 +54,9 @@ Root
 │   ├── 0217-contains-duplicate.cs
 │   ├── 0003-longest-substring-without-repeating.cs
 │   └── 0053-maximum-subarray.cs
+│── Day2/
+│   ├── 0125-valid-palindrome.cs
+│   ├── 0350-intersection-of-two-arrays-ii.cs
 │
 
 ...
