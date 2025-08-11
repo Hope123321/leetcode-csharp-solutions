@@ -26,8 +26,20 @@ I solve **2 problems per day**, documenting each solution with:
 ---
 
 ### ✅ Day 3
--  [0139. Word Break](https://leetcode.com/problems/word-break/) — Medium — Hash Table
--  [0169. Majority Element](https://leetcode.com/problems/majority-element) — Easy — Two Pointers
+- [x]  [0139. Word Break](https://leetcode.com/problems/word-break/) — Medium — Hash Table
+- [x]  [0169. Majority Element](https://leetcode.com/problems/majority-element) — Easy — Two Pointers
+
+---
+
+### ✅ Day 4
+- [x]  [0704. Binary Search](https://leetcode.com/problems/binary-search/) — Easy — Binary Search
+- [x] [0198. House Robber](https://leetcode.com/problems/house-robber) — Medium — Dynamic Programming
+
+---
+
+### ✅ Day 5
+- [x]   [0122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/binary-search/) — Easy — Binary Search
+- [x] [0198. House Robber](https://leetcode.com/problems/house-robber) — Medium — Dynamic Programming
 
 ---
 
