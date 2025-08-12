@@ -2,6 +2,21 @@
 
 This repo tracks my daily LeetCode problem-solving journey using **C#**, aiming to become an Algorithm Engineer and land a job at an international company in 6 months.
 
+## Statistics
+
+| Day  | Problems Solved | Easy | Medium | Hard | Topics Covered                        |
+|------|-----------------|------|--------|------|----------------------------------------|
+| 1    | 6               | 5    | 1      | 0    | HashMap, Greedy, HashSet, Sliding Window, DP |
+| 2    | 2               | 2    | 0      | 0    | Hash Table, Two Pointers               |
+| 3    | 2               | 1    | 1      | 0    | Hash Table, Two Pointers               |
+| 4    | 2               | 1    | 1      | 0    | Binary Search, DP                      |
+| 5    | 2               | 1    | 1      | 0    | Greedy, DP                             |
+| 6    | 2               | 0    | 2      | 0    | DP, Greedy                             |
+| 7    | 0               | 0    | 2      | 0    | DP, Greedy                             |
+| **Total** | **16**      | **10** | **8**  | **0** |                                        |
+
+---
+
 ## 🗓 Schedule
 I solve **2 problems per day**, documenting each solution with:
 - ✅ Problem link & metadata
@@ -11,37 +26,59 @@ I solve **2 problems per day**, documenting each solution with:
 
 ---
 
-### ✅ Day 1
-- [x] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy — HashMap
-- [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy — Greedy
-- [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy — Hash Table
-- [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy — HashSet
-- [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium — Sliding Window
-- [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — Easy — Dynamic Programming
+<details>
+  <summary>✅ Day 1 </summary>
 
-### ✅ Day 2
-- [x] [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) — Easy — Hash Table
-- [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy — Two Pointers
+  - [x] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy — HashMap
+  - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy — Greedy
+  - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy — Hash Table
+  - [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy — HashSet
+  - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium — Sliding Window
+  - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — Easy — Dynamic Programming
+</details>
 
----
+<details>
+  <summary>✅ Day 2 </summary>
 
-### ✅ Day 3
-- [x]  [0139. Word Break](https://leetcode.com/problems/word-break/) — Medium — Hash Table
-- [x]  [0169. Majority Element](https://leetcode.com/problems/majority-element) — Easy — Two Pointers
+  - [x] [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) — Easy — Hash Table
+  - [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Easy — Two Pointers
+</details>
 
----
+<details>
+  <summary>✅ Day 3 </summary>
 
-### ✅ Day 4
-- [x]  [0704. Binary Search](https://leetcode.com/problems/binary-search/) — Easy — Binary Search
-- [x] [0198. House Robber](https://leetcode.com/problems/house-robber) — Medium — Dynamic Programming
+  - [x]  [0139. Word Break](https://leetcode.com/problems/word-break/) — Medium — Hash Table
+  - [x]  [0169. Majority Element](https://leetcode.com/problems/majority-element) — Easy — Two Pointers
+</details>
 
----
+<details>
+  <summary>✅ Day 4 </summary>
 
-### ✅ Day 5
-- [x]   [0122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/binary-search/) — Easy — Binary Search
-- [x] [0198. House Robber](https://leetcode.com/problems/house-robber) — Medium — Dynamic Programming
+  - [x]  [0704. Binary Search](https://leetcode.com/problems/binary-search/) — Easy — Binary Search
+  - [x] [0198. House Robber](https://leetcode.com/problems/house-robber) — Medium — Dynamic Programming
+</details>
 
----
+<details>
+  <summary>✅ Day 5 </summary>
+
+  - [x]   [0122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/binary-search/) — Easy — Binary Search
+  - [x] [0198. House Robber](https://leetcode.com/problems/house-robber) — Medium — Dynamic Programming
+</details>
+
+<details>
+  <summary>✅ Day 6 </summary>
+
+  - [x] [0055. Jump Game](https://leetcode.com/problems/jump-game) — Medium — Greedy / DP
+  - [x]  [0062. Unique Paths](https://leetcode.com/problems/unique-paths/) — Medium — Dynamic Programming
+</details>
+
+<details>
+  <summary> 🔥 Day 7 </summary>
+
+  - [ ] [0064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) — Medium — Dynamic Programming , Array , Martix
+  - [ ]  [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) — Medium — Dynamic Programming , Array
+</details>
+
 
 ## 📌 Notes
 - All solutions include structured comments to improve readability and communication during interviews.
@@ -55,23 +92,5 @@ I solve **2 problems per day**, documenting each solution with:
 
 ---
 
-## 📁 File Structure
-```
-Root
-│
-├── Day1/
-│   ├── 0001-two-sum.cs
-│   ├── 0121-best-time-to-buy-and-sell-stock.cs
-│   ├── 0242-valid-anagram.cs
-│   ├── 0217-contains-duplicate.cs
-│   ├── 0003-longest-substring-without-repeating.cs
-│   └── 0053-maximum-subarray.cs
-│── Day2/
-│   ├── 0125-valid-palindrome.cs
-│   ├── 0350-intersection-of-two-arrays-ii.cs
-│
-
-...
-```
 
 Let’s keep going!
