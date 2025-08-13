@@ -12,8 +12,9 @@ This repo tracks my daily LeetCode problem-solving journey using **C#**, aiming 
 | 4    | 2               | 1    | 1      | 0    | Binary Search, DP                      |
 | 5    | 2               | 1    | 1      | 0    | Greedy, DP                             |
 | 6    | 2               | 0    | 2      | 0    | DP, Greedy                             |
-| 7    | 0               | 0    | 2      | 0    | DP, Greedy                             |
-| **Total** | **16**      | **10** | **8**  | **0** |                                        |
+| 7    | 2              | 0    | 2      | 0    | DP, Greedy    
+| 8    | 0              | 0    | 2      | 0    | Array,Sliding Window,DP                             |
+| **Total** | **17**      | **10** | **8**  | **0** |                                        |
 
 ---
 
@@ -73,12 +74,18 @@ I solve **2 problems per day**, documenting each solution with:
 </details>
 
 <details>
-  <summary> 🔥 Day 7 </summary>
+  <summary> ✅ Day 7 </summary>
 
-  - [ ] [0064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) — Medium — Dynamic Programming , Array , Martix
-  - [ ]  [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) — Medium — Dynamic Programming , Array
+  - [x] [0064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) — Medium — Dynamic Programming , Array , Martix
+  - [x] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) — Medium — Dynamic Programming , Array
 </details>
 
+<details>
+  <summary> 🔥 Day 8 </summary>
+
+  - [] [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) — Medium — 	Array / Sliding Window
+  - []  [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) — Medium — Dynamic Programming 
+</details>
 
 ## 📌 Notes
 - All solutions include structured comments to improve readability and communication during interviews.
