@@ -7,8 +7,8 @@ This repo tracks my daily LeetCode problem-solving journey using **C#**, aiming 
 | Week  | Total | Problems Solved | Easy | Medium | Hard | Topics Covered                        |
 |------|------|-----------------|------|--------|------|----------------------------------------|
 | 1    | 14    | 14               | 10    | 4      | 0    | HashMap, Greedy, Sliding Window, DP |
-| 2    | 10    | 6               | 0    | 10      | 0    | HashMap, Greedy, Sliding Window, DP               |
-| **Total** | **24** | **20**      | **10** | **14**  | **0** |                                        |
+| 2    | 10    | 8               | 0    | 10      | 0    | HashMap, Greedy, Sliding Window, DP               |
+| **Total** | **24** | **22**      | **10** | **14**  | **0** |                                        |
 
 ---
 
@@ -91,10 +91,10 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
   </details>
 
   <details>
-    <summary>🔥 Day 9 (0/2)</summary>
+    <summary>✅ Day 9 (2/2)</summary>
 
-    - [ ] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) — Medium — Array / Two Pointers / Binary Search
-    - [ ] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — Medium — Array / Dynamic Programming
+    - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) — Medium — Array / Two Pointers / Binary Search
+    - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — Medium — Array / Dynamic Programming
   </details>
 
   <details>
@@ -113,10 +113,8 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
 ---
 
 ## 🎯 Goal
-- Finish 6 problems/day → ~360 problems in 6 months
+- Finish 10 problems/week → ~240 problems in 6 months
 - Build portfolio-quality GitHub repo for international algorithm-focused positions
-
 ---
-
 
 Let’s keep going!
