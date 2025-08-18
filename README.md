@@ -7,8 +7,9 @@ This repo tracks my daily LeetCode problem-solving journey using **C#**, aiming 
 | Week  | Total | Problems Solved | Easy | Medium | Hard | Topics Covered                        |
 |------|------|-----------------|------|--------|------|----------------------------------------|
 | 1    | 14    | 14               | 10    | 4      | 0    | HashMap, Greedy, Sliding Window, DP |
-| 2    | 10    | 8               | 0    | 10      | 0    | HashMap, Greedy, Sliding Window, DP               |
-| **Total** | **24** | **22**      | **10** | **14**  | **0** |                                        |
+| 2    | 10    | 10               | 0    | 10      | 0    | HashMap, Greedy, Sliding Window, DP               |
+| 3    | 11   | 3              | 1    | 10      | 0    | HashMap, DP ,Prefix Sum              |
+| **Total** | **35** | **27**      | **10** | **24**  | **0** |                                        |
 
 ---
 
@@ -26,12 +27,12 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
   <details>
     <summary>✅ Day 1 (6/6)</summary>
 
-    - [x] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy — Array / HashMap
-    - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) — Easy — Array / Greedy
-    - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) — Easy — Array / Hash Table
-    - [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) — Easy — Array / HashSet
-    - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — Medium — String / Sliding Window
-    - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — Easy — Array / Dynamic Programming
+  - [x] [1. Two Sum](https://leetcode.com/problems/two-sum/) — Easy — Array / ashMap
+  - [x] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/est-time-to-buy-and-sell-stock/) — Easy — Array / Greedy
+  - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) — asy — Array / Hash Table
+  - [x] [217. Contains Duplicate](https://leetcode.com/problems/ontains-duplicate/) — Easy — Array / HashSet
+  - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.om/problems/longest-substring-without-repeating-characters/) — Medium — tring / Sliding Window
+  - [x] [53. Maximum Subarray](https://leetcode.com/problems/aximum-subarray/) — Easy — Array / Dynamic Programming
   </details>
 
   <details>
@@ -59,7 +60,7 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
     <summary>✅ Day 5 (2/2)</summary>
 
     - [x] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) — Medium — Array / Greedy
-    - [x] [198. House Robber](https://leetcode.com/problems/house-robber/) — Medium — Dynamic Programming
+    - [x] [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) — Medium — Dynamic Programming
   </details>
 
  
@@ -67,20 +68,20 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
 </details>
 
 <details>
-  <summary>🔥 Week 2</summary>
+  <summary>✅ Week 2</summary>
 
  <details>
     <summary>✅ Day 6 (2/2)</summary>
 
-    - [x] [62. Unique Paths](https://leetcode.com/problems/unique-paths/) — Medium — Dynamic Programming / Array
-    - [x] [55. Jump Game](https://leetcode.com/problems/jump-game/) — Medium — Array / Greedy / DP
+  - [x] [62. Unique Paths](https://leetcode.com/problems/unique-paths/) — edium — Dynamic Programming / Array
+  - [x] [55. Jump Game](https://leetcode.com/problems/jump-game/) — Medium — rray / Greedy / DP
   </details>
 
   <details>
     <summary>✅ Day 7 (2/2)</summary>
 
-    - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) — Medium — Dynamic Programming / Array / Matrix
-    - [x] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) — Medium — Dynamic Programming / Array
+  - [x] [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) — Medium — Dynamic Programming / Array / Matrix
+  - [x] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) — Medium — Dynamic Programming / Array
   </details>
 
   <details>
@@ -93,16 +94,34 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
   <details>
     <summary>✅ Day 9 (2/2)</summary>
 
-    - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) — Medium — Array / Two Pointers / Binary Search
-    - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — Medium — Array / Dynamic Programming
+  - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/ind-the-duplicate-number/) — Medium — Array / Two Pointers / Binary Search
+  - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — Medium — Array / Dynamic Programming
   </details>
 
   <details>
-    <summary>🔥 Day 10 (0/2)</summary>
+    <summary>✅ Day 10 (2/2)</summary>
 
-    - [ ] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — Medium — Array
-    - [ ] [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) — Medium — Dynamic Programming
+  - [x] [238. Product of Array Except Self](https://leetcode.com/problems/roduct-of-array-except-self/) — Medium — Array
+  - [x] [714. Best Time to Buy and Sell Stock with Transaction Fee](https://eetcode.com/problems/est-time-to-buy-and-sell-stock-with-transaction-fee/) — Medium — Dynamic rogramming
   </details>
+</details>
+
+
+<details>
+  <summary>🔥 Week 3</summary>
+  <details>
+    <summary>✅ Day 11 (3/3)</summary>
+
+  - [x] [560. Subarray Sum Equals K](https://leetcode.com/problems/ubarray-sum-equals-k/) — Medium —Prefix Sum
+  - [x] [263. Ugly Number](https://leetcode.com/problems/ugly-number/) — Easy — Math
+  - [x] [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) — Medium — Dynamic Programming
+  </details>
+
+<details> <summary>🔥 Day 12</summary>
+
+- [ ] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) — Medium — Dynamic Programming / Subset Sum
+- [ ] [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) — Medium — Prefix Sum / HashMap
+</details>
 
 </details>
 

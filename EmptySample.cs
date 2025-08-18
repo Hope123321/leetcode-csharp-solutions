@@ -1,7 +1,7 @@
-// 📁 Day/0287-find-the-duplicate-number.cs
-// Leetcode: 287. Find the Duplicate Number
+// 📁 Day/0560-subarray-sum-equals-k.cs
+// Leetcode: 560. Subarray Sum Equals K 
 // Difficulty: Medium
-// Link: https://leetcode.com/problems/find-the-duplicate-number/
+// Link: https://leetcode.com/problems/subarray-sum-equals-k/
 
 // 🧠 Approach:
 
