@@ -8,8 +8,8 @@ This repo tracks my daily LeetCode problem-solving journey using **C#**, aiming 
 |------|------|-----------------|------|--------|------|----------------------------------------|
 | 1    | 14    | 14               | 10    | 4      | 0    | HashMap, Greedy, Sliding Window, DP |
 | 2    | 10    | 10               | 0    | 10      | 0    | HashMap, Greedy, Sliding Window, DP               |
-| 3    | 11   | 3              | 1    | 10      | 0    | HashMap, DP ,Prefix Sum              |
-| **Total** | **35** | **27**      | **10** | **24**  | **0** |                                        |
+| 3    | 11   | 3                 | 2    | 9      | 0    | HashMap, DP ,Prefix Sum              |
+| **Total** | **35** | **27**     | **12** | **23**  | **0** |                                        |
 
 ---
 
@@ -117,10 +117,16 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
   - [x] [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) — Medium — Dynamic Programming
   </details>
 
-<details> <summary>🔥 Day 12</summary>
+<details> <summary>✅ Day 12 (2/2)</summary>
 
-- [ ] [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) — Medium — Dynamic Programming / Subset Sum
-- [ ] [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) — Medium — Prefix Sum / HashMap
+- [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) — Easy — Dynamic Programming 
+- [x] [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) — Medium — Prefix Sum / HashMap
+</details>
+
+<details> <summary>🔥 Day 13 (0/2)</summary>
+
+- [ ] [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) — Medium — Dynamic Programming 
+- [ ] [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) — Medium — Prefix Sum / HashMap
 </details>
 
 </details>
