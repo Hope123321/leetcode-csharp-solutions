@@ -8,8 +8,8 @@ This repo tracks my daily LeetCode problem-solving journey using **C#**, aiming 
 |------|------|-----------------|------|--------|------|----------------------------------------|
 | 1    | 14    | 14               | 10    | 4      | 0    | HashMap, Greedy, Sliding Window, DP |
 | 2    | 10    | 10               | 0    | 10      | 0    | HashMap, Greedy, Sliding Window, DP               |
-| 3    | 11   | 6                 | 2    | 9      | 0    | HashMap, DP ,Prefix Sum              |
-| **Total** | **35** | **30**     | **12** | **23**  | **0** |                                        |
+| 3    | 12   | 9                 | 2    | 10      | 0    | HashMap, DP ,Prefix Sum              |
+| **Total** | **36** | **33**     | **12** | **26**  | **0** |                                        |
 
 ---
 
@@ -126,14 +126,21 @@ I solve **2 problems per day**(exclude the weekend),  documenting each solution 
 <details> <summary>✅ Day 13 (2/2)</summary>
 
 - [x] [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) — Medium — Dynamic Programming 
-- [ ] [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) — Medium — Prefix Sum / HashMap
+- [x] [523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/description/) — Medium — Prefix Sum / HashMap
 </details>
 
 
-<details> <summary>🔥 Day 14 (1/2)</summary>
+<details> <summary>✅ Day 14 (1/2)</summary>
 
-- [ ] [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) — Medium — Dynamic Programming 
-- [ ] [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) — Medium — Prefix Sum / HashMap
+- [x] [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/) — Medium — Dynamic Programming 
+- [x] [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) — Medium — Prefix Sum / HashMap
+</details>
+
+<details> <summary>🔥 Day 15 (0/2)</summary>
+
+- [ ] [322. Coin Change](https://leetcode.com/problems/coin-change/description/) — Medium — Dynamic Programming 
+- [ ] [518. Coin Change II](https://leetcode.com/problems/coin-change-ii/description/) — Medium — Dynamic Programming 
+- [ ] [1248. Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) — Medium — Prefix Sum / HashMap
 </details>
 
 </details>
